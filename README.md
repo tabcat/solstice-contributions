@@ -1,5 +1,5 @@
 # solstice-contributions
-chrome extension that applies winter solstice style to extensions
+chrome extension that applies winter solstice style to contributions
 
 ## Why?
 
