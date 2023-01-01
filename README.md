@@ -15,4 +15,4 @@ I thought the styled contributions for the winter solstice looked pretty:
 
 You must clone and load as an unpacked extension. I do not plan on publishing to the Chrome Webstore.
 
-`be aware: this little extension uses manifest version 2 which may have its support dropped in the next few months. will probably update it again then.`
+`be aware: this little extension uses manifest version 2 which may have its support dropped by some browsers in the next few months. will probably update it again then.`
