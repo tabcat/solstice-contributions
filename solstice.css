@@ -1,6 +1,12 @@
 body {
-  --color-calendar-graph-day-L1-bg: #0A3069;
-  --color-calendar-graph-day-L2-bg: #0969DA;
-  --color-calendar-graph-day-L3-bg: #54AEFF;
-  --color-calendar-graph-day-L4-bg: #B6E3FF;
+  --contribution-default-bgColor-0: #272b33;
+  --contribution-default-bgColor-1: #0A3069;
+  --contribution-default-bgColor-2: #0969DA;
+  --contribution-default-bgColor-3: #54AEFF;
+  --contribution-default-bgColor-4: #B6E3FF;
+  --contribution-default-borderColor-0: transparent;
+  --contribution-default-borderColor-1: transparent;
+  --contribution-default-borderColor-2: transparent;
+  --contribution-default-borderColor-3: transparent;
+  --contribution-default-borderColor-4: transparent;
 }
