@@ -1,12 +1,13 @@
 {
-  "manifest_version": 2,
-  "version": "1.0.0",
+  "manifest_version": 3,
+  "version": "1.0.1",
   "name": "solstice-contributions",
   "description": "github contributions are styled like they would be during the winter solstice",
   "content_scripts": [
     {
       "matches": ["https://github.com/*"],
-      "css": ["solstice.css"]
+      "css": ["solstice.css"],
+      "run_at": "document_start"
     }
   ]
 }
